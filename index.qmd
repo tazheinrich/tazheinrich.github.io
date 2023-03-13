@@ -4,6 +4,8 @@ about:
   id: hero-heading
   template: trestles
   image: profilepic.jpg
+  image-width: 15em
+  image-shape: rounded
   links:
     - icon: github
       text: Github
