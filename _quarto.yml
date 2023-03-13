@@ -4,10 +4,23 @@ project:
 
 website:
   title: "Tassilo Heinrich"
+  search:
+    location: navbar
+    type: textbox
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About 
+    right:
+      - icon: github
+        href: https://github.com/tazheinrich
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/tassilo-heinrich-56692513b/
+        aria-label: Linkedin
+      - icon: twitter
+        href: https://twitter.com/tazheinrich
+        aria-label: Twitter
 
 format:
   html:
