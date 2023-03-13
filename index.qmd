@@ -3,7 +3,7 @@ title: "Tassilo Heinrich"
 about:
   id: hero-heading
   template: trestles
-  image: profilepic.jpg
+  image: profilepic_rdc.jpg
   image-width: 15em
   image-shape: rounded
   links:
