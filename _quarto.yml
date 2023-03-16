@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: About 
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/tazheinrich

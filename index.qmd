@@ -3,7 +3,7 @@ title: "Tassilo Heinrich"
 about:
   id: hero-heading
   template: trestles
-  image: profilepic_rdc.jpg
+  image: files/profilepic.jpg
   image-width: 15em
   image-shape: rounded
   links:
@@ -24,7 +24,7 @@ about:
 
 I'm Tassilo, a data scientist with a background in political science and professional expertise in both academic and  market research. Presently, I'm a researcher at the [Department of Research Methods](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/methoden-politikwissenschaft/startseite/index.html) at the [University of Regensburg's](https://www.https://uni-regensburg.de/) [Institute for Political Science](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/politikwissenschaft/startseite/index.html), where I'm also pursuing my PhD studies.
 
-In my research, I analyze data related to social stratification, public opinion, and voting behavior in Western Europe to investigate how differences in education levels affect people's value orientations and voting patterns. I enjoy sharing my expertise with others by offering courses and workshops in statistics, statistical programming, and research methods for undergraduate and graduate students.
+In my research, I analyze data related to social stratification, public opinion, and voting behavior in Western Europe to investigate how differences in education levels affect people's value orientations and voting patterns. I enjoy sharing my expertise with others by offering courses and workshops in statistics, statistical programming, and research methods mostly for undergraduate and graduate students.
 
 In my spare time, you'll typically find me playing tennis, hiking, or listing to music.
 :::
