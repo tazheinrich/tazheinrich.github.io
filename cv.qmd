@@ -7,7 +7,7 @@ CV was last updated on March 16, 2023
 
 ```{=html}
 
-<p class="text center"><a href="files/230316_tassilo_heinrich_cv_en.pdf" class="btn btn-primary"><i class="fa-solid fa-file-arrow-down"></i> Download current CV</a></p>
+<a class="btn btn-primary" href="files/230316_tassilo_heinrich_cv_en.pdf" role="button">Download current CV</a>
 
 ```
 
